@@ -1,0 +1,1 @@
+This is Masato Hagiwara's personal code repository
